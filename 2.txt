@@ -3,3 +3,4 @@ register here:
 user name:
 password:
 ......................
+ hi  developer
